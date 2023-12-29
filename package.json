@@ -1,0 +1,10 @@
+{
+  "dependencies": {},
+  "description": "Isometric 3D URP to quickstart prototyping",
+  "displayName": "Isometric 3D URP",
+  "host": "hub",
+  "name": "com.unity.template.iso",
+  "type": "template",
+  "unity": "2022.2",
+  "version": "1.0.0"
+}
